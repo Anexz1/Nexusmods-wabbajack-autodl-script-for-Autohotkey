@@ -6,6 +6,9 @@ This little shit works Autohoykey, a free, easy and safe software to which the d
 All you need to do is to download the file, place it in a folder. Then in the same folder place two screenshots of the nexus download button, one screenshot needs to be of just the gray download button and the other one needs to be the highlighted button with the mouse over it (of course the screenshot needs to be without the mouse visible).
 The second screenshot shouldnt be nessecary as the script moves the mouse back automatically after pressing but I advise it just in case.
 
+"Why won't you just set an autoclicker to click for you every 4 seconds or so?"
+Because the slow download button moves up and down depending on the mod description and name and etc, meaning that it would just start clicking a blank space after 10 seconds.
+
 Why did i make this? Because i'm BROKE and i know other people are also BROKE and wont want to pay 10 bucks a month to just install mods
 
 While this script does help with the tedious clicking, the 3mb/s limit still is in place and i'm pretty confident theres no way to bypass it...
