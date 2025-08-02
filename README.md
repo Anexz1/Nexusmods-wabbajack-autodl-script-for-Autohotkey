@@ -20,4 +20,6 @@ Here is a small video showcase on how I use it
 
 https://github.com/user-attachments/assets/290a4465-6743-438f-8753-08ddd10f7089
 
-sorry if this whole thing reads like gibberish but i am not a native engish speaker (obviously) i just wanted to share this to possibly help someone too lazy to make their own script 
+sorry if this whole thing reads like gibberish but i am not a native engish speaker i just wanted to share this to possibly help someone too lazy to make their own script 
+I also should mention that using autoclickers on nexus is a bannable offense because they're nothing but a bunch of CUNTS! 
+cheers
